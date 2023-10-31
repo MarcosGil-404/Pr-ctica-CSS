@@ -1,0 +1,17 @@
+h1{
+    color: #1bde90 ;
+}
+em{
+    color: rebeccapurple;
+}
+a{
+    color: #62e336;
+}
+.morete{
+    color: #530394;
+}
+.lista{
+    font-family: monospace;
+    font-style: italic;
+    font-size: larger;
+}
